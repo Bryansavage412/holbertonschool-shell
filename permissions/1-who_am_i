@@ -1,2 +1,2 @@
 #!/bin/bash
-whoami
+whoamiprints the effective username of the current user.
