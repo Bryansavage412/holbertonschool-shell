@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d -links +2
+ls -1F $dir_path | grep -v / | wc -l
